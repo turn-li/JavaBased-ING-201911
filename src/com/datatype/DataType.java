@@ -18,9 +18,10 @@ public class DataType {
         long l = 0L;//整形
         float f = 0.0F;
         double d = 0.0;//浮点型
-        char c = 0;
-        boolean b1 = true;
+        char c = 0;//字符型
+        boolean b1 = true;//布尔型
 
+        
 
 
 
