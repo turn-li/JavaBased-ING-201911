@@ -19,6 +19,7 @@ public class DataType {
         float f = 0.0F;
         double d = 0.0;//浮点型
         char c = 0;
+        boolean b1 = true;
 
 
 
