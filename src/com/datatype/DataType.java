@@ -21,7 +21,7 @@ public class DataType {
         char c = 0;//字符型
         boolean b1 = true;//布尔型
 
-        
+
 
 
 
