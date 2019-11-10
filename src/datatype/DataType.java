@@ -1,4 +1,4 @@
-package com.datatype;
+package datatype;
 
 /**
  * @Author:TurnLi
@@ -7,6 +7,7 @@ package com.datatype;
  * @Modified by:
  */
 public class DataType {
+
 
     public static void main(String[] args) {
 
@@ -20,7 +21,9 @@ public class DataType {
         double d = 0.0;//浮点型
         char c = 0;//字符型
         boolean b1 = true;//布尔型
-
+        //2.引用类型，这里不做主要介绍
+        //它包含类（例如基础数据的包装类String.Integer等），接口（interface),数组（array)
+        //这些都是调用时，直接调用地址所在的内容。
 
 
 
