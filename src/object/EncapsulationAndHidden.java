@@ -2,7 +2,7 @@ package object;
 
 /**
  * @Author:TurnLi
- * @Description:属性的封装和隐藏
+ * @Description:属性的封装和隐藏，java特性之一
  * @CreateDate 17:06 2019/11/12
  * @Modified by:
  */

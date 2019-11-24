@@ -92,12 +92,11 @@ public class Array {
                 }
             }
         }
+
         //得到数组后遍历就行了
         //数组操作常见问题1.数组下标越界  ArrayIndexOutOfBoundsException
         // 2、空指针  NullPointException
-
-
-
+        //对于数组在内存中的方式，arr[][]  arr存在stack中，heap中存放一个数组存放二维数组的地址，二维数组中存放数据
     }
 
 }

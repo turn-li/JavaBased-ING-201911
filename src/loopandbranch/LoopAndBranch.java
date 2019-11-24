@@ -72,7 +72,7 @@ public class LoopAndBranch {
 //            System.out.println("无限循环");
 //        }
 //        while(true){
-//            System.out.println("无线循环");
+//            System.out.println("无限循环");
 //        }
 
         //4嵌套循环 循环之间的嵌套for-for;for-while;wwhile-while
